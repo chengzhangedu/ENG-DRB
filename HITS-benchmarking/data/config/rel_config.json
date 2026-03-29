@@ -1,0 +1,210 @@
+{
+	"deu.rst.pcc": {
+		"encoder_type": "bert",
+		"pretrained_path": "dbmdz/bert-base-german-uncased",
+		"lr": 3e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"eng.dep.scidtb": {
+		"encoder_type": "roberta",
+		"pretrained_path": "roberta-base",
+		"lr": 1e-5,
+		"batch_size": 16,
+		"do_adv": "True"
+	},
+	"eng.pdtb.pdtb": {
+		"encoder_type": "roberta",
+		"pretrained_path": "roberta-large",
+		"lr": 1e-5,
+		"batch_size": 8,
+		"do_adv": "True"
+	},
+	"eng.rst.gum": {
+		"encoder_type": "roberta",
+		"pretrained_path": "roberta-large",
+		"lr": 1e-5,
+		"batch_size": 8,
+		"do_adv": "True"
+	},
+	"eng.rst.rstdt": {
+		"encoder_type": "roberta",
+		"pretrained_path": "roberta-large",
+		"lr": 1e-5,
+		"batch_size": 8,
+		"do_adv": "True"
+	},
+	"eng.sdrt.stac": {
+		"encoder_type": "roberta",
+		"pretrained_path": "roberta-large",
+		"lr": 1e-5,
+		"batch_size": 8,
+		"do_adv": "True"
+	},
+	"eus.rst.ert": {
+		"encoder_type": "bert",
+		"pretrained_path": "ixa-ehu/berteus-base-cased",
+		"lr": 1e-4,
+		"batch_size": 16,
+		"do_adv": "True"
+	},
+	"fas.rst.prstc": {
+		"encoder_type": "bert",
+		"pretrained_path": "HooshvareLab/bert-fa-base-uncased",
+		"lr": 1e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"fra.sdrt.annodis": {
+		"encoder_type": "camembert",
+		"pretrained_path": "camembert/camembert-large",
+		"lr": 1e-5,
+		"batch_size": 8,
+		"do_adv": "True"
+	},
+	"ita.pdtb.luna": {
+		"encoder_type": "bert",
+		"pretrained_path": "dbmdz/bert-base-italian-uncased",
+		"lr": 3e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"nld.rst.nldt": {
+		"encoder_type": "roberta",
+		"pretrained_path": "pdelobelle/robbert-v2-dutch-base",
+		"lr": 3e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"por.rst.cstn": {
+		"encoder_type": "bert",
+		"pretrained_path": "neuralmind/bert-large-portuguese-cased",
+		"lr": 3e-5,
+		"batch_size": 12,
+		"do_adv": "False"
+	},
+	"por.pdtb.crpc": {
+		"encoder_type": "bert",
+		"pretrained_path": "neuralmind/bert-large-portuguese-cased",
+		"lr": 3e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"rus.rst.rrt": {
+		"encoder_type": "bert",
+		"pretrained_path": "DeepPavlov/rubert-base-cased",
+		"lr": 1e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"spa.rst.rststb": {
+		"encoder_type": "bert",
+		"pretrained_path": "dccuchile/bert-base-spanish-wwm-uncased",
+		"lr": 3e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"spa.rst.sctb": {
+		"encoder_type": "bert",
+		"pretrained_path": "dccuchile/bert-base-spanish-wwm-uncased",
+		"lr": 3e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"tur.pdtb.tdb": {
+		"encoder_type": "bert",
+		"pretrained_path": "dbmdz/bert-base-turkish-cased",
+		"lr": 3e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},	
+	"zho.dep.scidtb": {
+		"encoder_type": "xlm-roberta",
+		"pretrained_path": "xlm-roberta-base",
+		"lr": 3e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"zho.pdtb.cdtb": {
+		"encoder_type": "bert",
+		"pretrained_path": "hfl/chinese-macbert-large",
+		"lr": 3e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"zho.rst.gcdt": {
+		"encoder_type": "bert",
+		"pretrained_path": "hfl/chinese-macbert-large",
+		"do_adv": "False",
+		"lr": 3e-5,
+		"batch_size": 16
+	},
+	"zho.rst.sctb": {
+		"encoder_type": "bert",
+		"pretrained_path": "hfl/chinese-macbert-large",
+		"lr": 3e-5,
+		"batch_size": 12,
+		"do_adv": "False"
+	},
+	"tha.pdtb.tdtb": {
+		"encoder_type": "camembert",
+		"pretrained_path": "airesearch/wangchanberta-base-att-spm-uncased",
+		"lr": 3e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"merged": {
+		"encoder_type": "xlm-roberta",
+		"pretrained_path": "xlm-roberta-base",
+		"lr": 1e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+
+	},
+	"super.rst": {
+		"encoder_type": "xlm-roberta",
+		"pretrained_path": "xlm-roberta-large",
+		"lr": 1e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+
+	},
+	"super.pdtb": {
+		"encoder_type": "xlm-roberta",
+		"pretrained_path": "xlm-roberta-large",
+		"lr": 1e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+
+	},
+	"super.sdrt": {
+		"encoder_type": "xlm-roberta",
+		"pretrained_path": "xlm-roberta-large",
+		"lr": 1e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+
+	},
+	"super.dep": {
+		"encoder_type": "xlm-roberta",
+		"pretrained_path": "xlm-roberta-large",
+		"lr": 1e-5,
+		"batch_size": 8,
+		"do_adv": "True"
+
+	},
+	"eng.tutorial.annotation": {
+		"encoder_type": "roberta",
+		"pretrained_path": "roberta-base",
+		"lr": 2e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	},
+	"pdtb.tutorial": {
+		"encoder_type": "roberta",
+		"pretrained_path": "roberta-base",
+		"lr": 2e-5,
+		"batch_size": 16,
+		"do_adv": "False"
+	}
+}
