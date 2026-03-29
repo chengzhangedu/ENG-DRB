@@ -1,0 +1,1865 @@
+# newdoc id = PLC_output
+# sent_id = 1
+# s_type = default
+1	Okay	okay	X	X	_	_	_	_	_
+2	,	,	X	X	_	_	_	_	_
+3	so	so	X	X	_	_	_	_	_
+4	I	i	X	X	_	_	_	_	_
+5	want	want	X	X	_	_	_	_	_
+6	to	to	X	X	_	_	_	_	_
+7	talk	talk	X	X	_	_	_	_	_
+8	about	about	X	X	_	_	_	_	_
+9	how	how	X	X	_	_	_	_	_
+10	we	we	X	X	_	_	_	_	_
+11	can	can	X	X	_	_	_	_	_
+12	troubleshoot	troubleshoot	X	X	_	_	_	_	_
+13	an	an	X	X	_	_	_	_	_
+14	output	output	X	X	_	_	_	_	_
+15	on	on	X	X	_	_	_	_	_
+16	a	a	X	X	_	_	_	_	_
+17	PLC	plc	X	X	_	_	_	_	_
+18	.	.	X	X	_	_	_	_	_
+
+# sent_id = 2
+# s_type = default
+19	Now	now	X	X	_	_	_	_	_
+20	,	,	X	X	_	_	_	_	_
+21	every	every	X	X	_	_	_	_	_
+22	PLC	plc	X	X	_	_	_	_	_
+23	will	will	X	X	_	_	_	_	_
+24	be	be	X	X	_	_	_	_	_
+25	a	a	X	X	_	_	_	_	_
+26	little	little	X	X	_	_	_	_	_
+27	bit	bit	X	X	_	_	_	_	_
+28	different	different	X	X	_	_	_	_	_
+29	in	in	X	X	_	_	_	_	_
+30	the	the	X	X	_	_	_	_	_
+31	way	way	X	X	_	_	_	_	_
+32	that	that	X	X	_	_	_	_	_
+33	their	their	X	X	_	_	_	_	_
+34	terminals	terminals	X	X	_	_	_	_	_
+35	are	are	X	X	_	_	_	_	_
+36	lined	lined	X	X	_	_	_	_	_
+37	up	up	X	X	_	_	_	_	_
+38	,	,	X	X	_	_	_	_	_
+
+# sent_id = 3
+# s_type = default
+39	but	but	X	X	_	_	_	_	_
+40	for	for	X	X	_	_	_	_	_
+41	this	this	X	X	_	_	_	_	_
+42	one	one	X	X	_	_	_	_	_
+43	,	,	X	X	_	_	_	_	_
+44	we	we	X	X	_	_	_	_	_
+45	'	'	X	X	_	_	_	_	_
+46	re	re	X	X	_	_	_	_	_
+47	going	going	X	X	_	_	_	_	_
+48	to	to	X	X	_	_	_	_	_
+49	use	use	X	X	_	_	_	_	_
+50	the	the	X	X	_	_	_	_	_
+51	Micrologic	micrologic	X	X	_	_	_	_	_
+52	1400	1400	X	X	_	_	_	_	_
+53	.	.	X	X	_	_	_	_	_
+
+# sent_id = 4
+# s_type = default
+54	Okay	okay	X	X	_	_	_	_	_
+55	,	,	X	X	_	_	_	_	_
+56	so	so	X	X	_	_	_	_	_
+57	here	here	X	X	_	_	_	_	_
+58	you	you	X	X	_	_	_	_	_
+59	can	can	X	X	_	_	_	_	_
+60	see	see	X	X	_	_	_	_	_
+61	we	we	X	X	_	_	_	_	_
+62	got	got	X	X	_	_	_	_	_
+63	a	a	X	X	_	_	_	_	_
+64	little	little	X	X	_	_	_	_	_
+65	note	note	X	X	_	_	_	_	_
+66	that	that	X	X	_	_	_	_	_
+67	says	says	X	X	_	_	_	_	_
+68	"	"	X	X	_	_	_	_	_
+69	does	does	X	X	_	_	_	_	_
+70	not	not	X	X	_	_	_	_	_
+71	work	work	X	X	_	_	_	_	_
+72	.	.	X	X	_	_	_	_	_
+73	"	"	X	X	_	_	_	_	_
+
+# sent_id = 5
+# s_type = default
+74	So	so	X	X	_	_	_	_	_
+75	,	,	X	X	_	_	_	_	_
+76	this	this	X	X	_	_	_	_	_
+77	output	output	X	X	_	_	_	_	_
+78	is	is	X	X	_	_	_	_	_
+79	not	not	X	X	_	_	_	_	_
+80	working	working	X	X	_	_	_	_	_
+81	anymore	anymore	X	X	_	_	_	_	_
+82	.	.	X	X	_	_	_	_	_
+
+# sent_id = 6
+# s_type = default
+83	So	so	X	X	_	_	_	_	_
+84	I	i	X	X	_	_	_	_	_
+85	can	can	X	X	_	_	_	_	_
+86	see	see	X	X	_	_	_	_	_
+87	here	here	X	X	_	_	_	_	_
+88	on	on	X	X	_	_	_	_	_
+89	my	my	X	X	_	_	_	_	_
+90	screen	screen	X	X	_	_	_	_	_
+91	when	when	X	X	_	_	_	_	_
+92	I	i	X	X	_	_	_	_	_
+93	activate	activate	X	X	_	_	_	_	_
+94	the	the	X	X	_	_	_	_	_
+95	green	green	X	X	_	_	_	_	_
+96	push	push	X	X	_	_	_	_	_
+97	button	button	X	X	_	_	_	_	_
+98	,	,	X	X	_	_	_	_	_
+
+# sent_id = 7
+# s_type = default
+99	I	i	X	X	_	_	_	_	_
+100	'	'	X	X	_	_	_	_	_
+101	m	m	X	X	_	_	_	_	_
+102	getting	getting	X	X	_	_	_	_	_
+103	an	an	X	X	_	_	_	_	_
+104	output	output	X	X	_	_	_	_	_
+105	to	to	X	X	_	_	_	_	_
+106	output	output	X	X	_	_	_	_	_
+107	one	one	X	X	_	_	_	_	_
+108	on	on	X	X	_	_	_	_	_
+109	my	my	X	X	_	_	_	_	_
+110	slot	slot	X	X	_	_	_	_	_
+111	zero	zero	X	X	_	_	_	_	_
+112	,	,	X	X	_	_	_	_	_
+
+# sent_id = 8
+# s_type = default
+113	but	but	X	X	_	_	_	_	_
+114	the	the	X	X	_	_	_	_	_
+115	light	light	X	X	_	_	_	_	_
+116	is	is	X	X	_	_	_	_	_
+117	not	not	X	X	_	_	_	_	_
+118	coming	coming	X	X	_	_	_	_	_
+119	on	on	X	X	_	_	_	_	_
+120	.	.	X	X	_	_	_	_	_
+
+# sent_id = 9
+# s_type = default
+121	So	so	X	X	_	_	_	_	_
+122	,	,	X	X	_	_	_	_	_
+123	let	let	X	X	_	_	_	_	_
+124	'	'	X	X	_	_	_	_	_
+125	s	s	X	X	_	_	_	_	_
+126	go	go	X	X	_	_	_	_	_
+127	ahead	ahead	X	X	_	_	_	_	_
+128	and	and	X	X	_	_	_	_	_
+129	walk	walk	X	X	_	_	_	_	_
+130	through	through	X	X	_	_	_	_	_
+131	how	how	X	X	_	_	_	_	_
+132	we	we	X	X	_	_	_	_	_
+133	troubleshoot	troubleshoot	X	X	_	_	_	_	_
+134	something	something	X	X	_	_	_	_	_
+135	like	like	X	X	_	_	_	_	_
+136	this	this	X	X	_	_	_	_	_
+137	.	.	X	X	_	_	_	_	_
+
+# sent_id = 10
+# s_type = default
+138	Now	now	X	X	_	_	_	_	_
+139	,	,	X	X	_	_	_	_	_
+140	you	you	X	X	_	_	_	_	_
+141	can	can	X	X	_	_	_	_	_
+142	also	also	X	X	_	_	_	_	_
+143	verify	verify	X	X	_	_	_	_	_
+144	that	that	X	X	_	_	_	_	_
+145	the	the	X	X	_	_	_	_	_
+146	output	output	X	X	_	_	_	_	_
+147	is	is	X	X	_	_	_	_	_
+148	turning	turning	X	X	_	_	_	_	_
+149	on	on	X	X	_	_	_	_	_
+150	right	right	X	X	_	_	_	_	_
+151	here	here	X	X	_	_	_	_	_
+152	in	in	X	X	_	_	_	_	_
+153	the	the	X	X	_	_	_	_	_
+154	output	output	X	X	_	_	_	_	_
+155	data	data	X	X	_	_	_	_	_
+156	table	table	X	X	_	_	_	_	_
+157	file	file	X	X	_	_	_	_	_
+158	.	.	X	X	_	_	_	_	_
+
+# sent_id = 11
+# s_type = default
+159	So	so	X	X	_	_	_	_	_
+160	,	,	X	X	_	_	_	_	_
+161	when	when	X	X	_	_	_	_	_
+162	I	i	X	X	_	_	_	_	_
+163	activate	activate	X	X	_	_	_	_	_
+164	the	the	X	X	_	_	_	_	_
+165	green	green	X	X	_	_	_	_	_
+166	push	push	X	X	_	_	_	_	_
+167	button	button	X	X	_	_	_	_	_
+168	,	,	X	X	_	_	_	_	_
+169	it	it	X	X	_	_	_	_	_
+170	is	is	X	X	_	_	_	_	_
+171	changing	changing	X	X	_	_	_	_	_
+172	to	to	X	X	_	_	_	_	_
+173	one	one	X	X	_	_	_	_	_
+174	.	.	X	X	_	_	_	_	_
+
+# sent_id = 12
+# s_type = default
+175	Okay	okay	X	X	_	_	_	_	_
+176	,	,	X	X	_	_	_	_	_
+177	so	so	X	X	_	_	_	_	_
+178	now	now	X	X	_	_	_	_	_
+179	we	we	X	X	_	_	_	_	_
+180	need	need	X	X	_	_	_	_	_
+181	to	to	X	X	_	_	_	_	_
+182	begin	begin	X	X	_	_	_	_	_
+183	to	to	X	X	_	_	_	_	_
+184	troubleshoot	troubleshoot	X	X	_	_	_	_	_
+185	the	the	X	X	_	_	_	_	_
+186	process	process	X	X	_	_	_	_	_
+187	.	.	X	X	_	_	_	_	_
+
+# sent_id = 13
+# s_type = default
+188	Now	now	X	X	_	_	_	_	_
+189	,	,	X	X	_	_	_	_	_
+190	this	this	X	X	_	_	_	_	_
+191	is	is	X	X	_	_	_	_	_
+192	a	a	X	X	_	_	_	_	_
+193	discrete	discrete	X	X	_	_	_	_	_
+194	output	output	X	X	_	_	_	_	_
+195	,	,	X	X	_	_	_	_	_
+
+# sent_id = 14
+# s_type = default
+196	so	so	X	X	_	_	_	_	_
+197	the	the	X	X	_	_	_	_	_
+198	advantage	advantage	X	X	_	_	_	_	_
+199	of	of	X	X	_	_	_	_	_
+200	a	a	X	X	_	_	_	_	_
+201	discrete	discrete	X	X	_	_	_	_	_
+202	output	output	X	X	_	_	_	_	_
+203	is	is	X	X	_	_	_	_	_
+204	that	that	X	X	_	_	_	_	_
+205	it	it	X	X	_	_	_	_	_
+206	'	'	X	X	_	_	_	_	_
+207	s	s	X	X	_	_	_	_	_
+208	very	very	X	X	_	_	_	_	_
+209	easy	easy	X	X	_	_	_	_	_
+210	to	to	X	X	_	_	_	_	_
+211	troubleshoot	troubleshoot	X	X	_	_	_	_	_
+212	.	.	X	X	_	_	_	_	_
+
+# sent_id = 15
+# s_type = default
+213	Now	now	X	X	_	_	_	_	_
+214	,	,	X	X	_	_	_	_	_
+215	this	this	X	X	_	_	_	_	_
+216	is	is	X	X	_	_	_	_	_
+217	a	a	X	X	_	_	_	_	_
+218	light	light	X	X	_	_	_	_	_
+219	,	,	X	X	_	_	_	_	_
+
+# sent_id = 16
+# s_type = default
+220	so	so	X	X	_	_	_	_	_
+221	the	the	X	X	_	_	_	_	_
+222	first	first	X	X	_	_	_	_	_
+223	thing	thing	X	X	_	_	_	_	_
+224	you	you	X	X	_	_	_	_	_
+225	would	would	X	X	_	_	_	_	_
+226	do	do	X	X	_	_	_	_	_
+227	is	is	X	X	_	_	_	_	_
+228	check	check	X	X	_	_	_	_	_
+229	the	the	X	X	_	_	_	_	_
+230	bulb	bulb	X	X	_	_	_	_	_
+231	,	,	X	X	_	_	_	_	_
+
+# sent_id = 17
+# s_type = default
+232	and	and	X	X	_	_	_	_	_
+233	I	i	X	X	_	_	_	_	_
+234	know	know	X	X	_	_	_	_	_
+235	the	the	X	X	_	_	_	_	_
+236	bulb	bulb	X	X	_	_	_	_	_
+237	is	is	X	X	_	_	_	_	_
+238	good	good	X	X	_	_	_	_	_
+239	on	on	X	X	_	_	_	_	_
+240	here	here	X	X	_	_	_	_	_
+241	,	,	X	X	_	_	_	_	_
+
+# sent_id = 18
+# s_type = default
+242	and	and	X	X	_	_	_	_	_
+243	so	so	X	X	_	_	_	_	_
+244	I	i	X	X	_	_	_	_	_
+245	'	'	X	X	_	_	_	_	_
+246	m	m	X	X	_	_	_	_	_
+247	not	not	X	X	_	_	_	_	_
+248	going	going	X	X	_	_	_	_	_
+249	to	to	X	X	_	_	_	_	_
+250	waste	waste	X	X	_	_	_	_	_
+251	your	your	X	X	_	_	_	_	_
+252	time	time	X	X	_	_	_	_	_
+253	doing	doing	X	X	_	_	_	_	_
+254	that	that	X	X	_	_	_	_	_
+255	.	.	X	X	_	_	_	_	_
+
+# sent_id = 19
+# s_type = default
+256	So	so	X	X	_	_	_	_	_
+257	,	,	X	X	_	_	_	_	_
+258	now	now	X	X	_	_	_	_	_
+259	the	the	X	X	_	_	_	_	_
+260	next	next	X	X	_	_	_	_	_
+261	thing	thing	X	X	_	_	_	_	_
+262	we	we	X	X	_	_	_	_	_
+263	want	want	X	X	_	_	_	_	_
+264	to	to	X	X	_	_	_	_	_
+265	do	do	X	X	_	_	_	_	_
+266	is	is	X	X	_	_	_	_	_
+267	we	we	X	X	_	_	_	_	_
+268	want	want	X	X	_	_	_	_	_
+269	to	to	X	X	_	_	_	_	_
+270	take	take	X	X	_	_	_	_	_
+271	a	a	X	X	_	_	_	_	_
+272	voltage	voltage	X	X	_	_	_	_	_
+273	measurement	measurement	X	X	_	_	_	_	_
+274	off	off	X	X	_	_	_	_	_
+275	the	the	X	X	_	_	_	_	_
+276	back	back	X	X	_	_	_	_	_
+277	of	of	X	X	_	_	_	_	_
+278	that	that	X	X	_	_	_	_	_
+
+# sent_id = 20
+# s_type = default
+279	to	to	X	X	_	_	_	_	_
+280	see	see	X	X	_	_	_	_	_
+281	if	if	X	X	_	_	_	_	_
+282	the	the	X	X	_	_	_	_	_
+283	voltage	voltage	X	X	_	_	_	_	_
+284	measurement	measurement	X	X	_	_	_	_	_
+285	is	is	X	X	_	_	_	_	_
+286	coming	coming	X	X	_	_	_	_	_
+287	in	in	X	X	_	_	_	_	_
+288	here	here	X	X	_	_	_	_	_
+289	,	,	X	X	_	_	_	_	_
+290	because	because	X	X	_	_	_	_	_
+291	this…	this…	X	X	_	_	_	_	_
+292	.	.	X	X	_	_	_	_	_
+
+# sent_id = 21
+# s_type = default
+293	which	which	X	X	_	_	_	_	_
+294	will	will	X	X	_	_	_	_	_
+295	be	be	X	X	_	_	_	_	_
+296	our	our	X	X	_	_	_	_	_
+297	very	very	X	X	_	_	_	_	_
+298	first	first	X	X	_	_	_	_	_
+299	step	step	X	X	_	_	_	_	_
+300	.	.	X	X	_	_	_	_	_
+
+# sent_id = 22
+# s_type = default
+301	Okay	okay	X	X	_	_	_	_	_
+302	,	,	X	X	_	_	_	_	_
+303	so	so	X	X	_	_	_	_	_
+304	the	the	X	X	_	_	_	_	_
+305	first	first	X	X	_	_	_	_	_
+306	thing	thing	X	X	_	_	_	_	_
+307	we	we	X	X	_	_	_	_	_
+308	'	'	X	X	_	_	_	_	_
+309	re	re	X	X	_	_	_	_	_
+310	going	going	X	X	_	_	_	_	_
+311	to	to	X	X	_	_	_	_	_
+312	do	do	X	X	_	_	_	_	_
+313	is	is	X	X	_	_	_	_	_
+314	check	check	X	X	_	_	_	_	_
+315	voltage	voltage	X	X	_	_	_	_	_
+316	back	back	X	X	_	_	_	_	_
+317	here	here	X	X	_	_	_	_	_
+318	.	.	X	X	_	_	_	_	_
+
+# sent_id = 23
+# s_type = default
+319	So	so	X	X	_	_	_	_	_
+320	,	,	X	X	_	_	_	_	_
+321	what	what	X	X	_	_	_	_	_
+322	we	we	X	X	_	_	_	_	_
+323	'	'	X	X	_	_	_	_	_
+324	re	re	X	X	_	_	_	_	_
+325	going	going	X	X	_	_	_	_	_
+326	to	to	X	X	_	_	_	_	_
+327	do	do	X	X	_	_	_	_	_
+328	is	is	X	X	_	_	_	_	_
+329	we	we	X	X	_	_	_	_	_
+330	'	'	X	X	_	_	_	_	_
+331	re	re	X	X	_	_	_	_	_
+332	going	going	X	X	_	_	_	_	_
+333	to	to	X	X	_	_	_	_	_
+334	turn	turn	X	X	_	_	_	_	_
+335	this	this	X	X	_	_	_	_	_
+336	to	to	X	X	_	_	_	_	_
+337	volts	volts	X	X	_	_	_	_	_
+338	AC	ac	X	X	_	_	_	_	_
+339	.	.	X	X	_	_	_	_	_
+
+# sent_id = 24
+# s_type = default
+340	Now	now	X	X	_	_	_	_	_
+341	,	,	X	X	_	_	_	_	_
+342	you	you	X	X	_	_	_	_	_
+343	need	need	X	X	_	_	_	_	_
+344	to	to	X	X	_	_	_	_	_
+345	verify	verify	X	X	_	_	_	_	_
+346	what	what	X	X	_	_	_	_	_
+347	voltage	voltage	X	X	_	_	_	_	_
+348	is	is	X	X	_	_	_	_	_
+349	going	going	X	X	_	_	_	_	_
+350	to	to	X	X	_	_	_	_	_
+351	be	be	X	X	_	_	_	_	_
+352	present	present	X	X	_	_	_	_	_
+353	here	here	X	X	_	_	_	_	_
+354	.	.	X	X	_	_	_	_	_
+
+# sent_id = 25
+# s_type = default
+355	Is	is	X	X	_	_	_	_	_
+356	it	it	X	X	_	_	_	_	_
+357	going	going	X	X	_	_	_	_	_
+358	to	to	X	X	_	_	_	_	_
+359	be	be	X	X	_	_	_	_	_
+360	24	24	X	X	_	_	_	_	_
+361	volts	volts	X	X	_	_	_	_	_
+362	DC	dc	X	X	_	_	_	_	_
+363	or	or	X	X	_	_	_	_	_
+364	120	120	X	X	_	_	_	_	_
+365	volts	volts	X	X	_	_	_	_	_
+366	AC	ac	X	X	_	_	_	_	_
+367	?	?	X	X	_	_	_	_	_
+
+# sent_id = 26
+# s_type = default
+368	The	the	X	X	_	_	_	_	_
+369	red	red	X	X	_	_	_	_	_
+370	wire	wire	X	X	_	_	_	_	_
+371	here	here	X	X	_	_	_	_	_
+372	coming	coming	X	X	_	_	_	_	_
+373	to	to	X	X	_	_	_	_	_
+374	the	the	X	X	_	_	_	_	_
+375	output	output	X	X	_	_	_	_	_
+376	indicates	indicates	X	X	_	_	_	_	_
+377	that	that	X	X	_	_	_	_	_
+378	this	this	X	X	_	_	_	_	_
+379	is	is	X	X	_	_	_	_	_
+380	AC	ac	X	X	_	_	_	_	_
+381	,	,	X	X	_	_	_	_	_
+
+# sent_id = 27
+# s_type = default
+382	and	and	X	X	_	_	_	_	_
+383	most	most	X	X	_	_	_	_	_
+384	of	of	X	X	_	_	_	_	_
+385	the	the	X	X	_	_	_	_	_
+386	time	time	X	X	_	_	_	_	_
+387	,	,	X	X	_	_	_	_	_
+388	the	the	X	X	_	_	_	_	_
+389	color	color	X	X	_	_	_	_	_
+390	code	code	X	X	_	_	_	_	_
+391	can	can	X	X	_	_	_	_	_
+392	be	be	X	X	_	_	_	_	_
+393	trusted	trusted	X	X	_	_	_	_	_
+394	,	,	X	X	_	_	_	_	_
+
+# sent_id = 28
+# s_type = default
+395	but	but	X	X	_	_	_	_	_
+396	you	you	X	X	_	_	_	_	_
+397	always	always	X	X	_	_	_	_	_
+398	want	want	X	X	_	_	_	_	_
+399	to	to	X	X	_	_	_	_	_
+400	be	be	X	X	_	_	_	_	_
+401	careful	careful	X	X	_	_	_	_	_
+402	.	.	X	X	_	_	_	_	_
+
+# sent_id = 29
+# s_type = default
+403	You	you	X	X	_	_	_	_	_
+404	may	may	X	X	_	_	_	_	_
+405	want	want	X	X	_	_	_	_	_
+406	to	to	X	X	_	_	_	_	_
+407	go	go	X	X	_	_	_	_	_
+408	look	look	X	X	_	_	_	_	_
+409	back	back	X	X	_	_	_	_	_
+410	at	at	X	X	_	_	_	_	_
+411	the	the	X	X	_	_	_	_	_
+412	schematic	schematic	X	X	_	_	_	_	_
+413	just	just	X	X	_	_	_	_	_
+414	to	to	X	X	_	_	_	_	_
+415	verify	verify	X	X	_	_	_	_	_
+416	,	,	X	X	_	_	_	_	_
+
+# sent_id = 30
+# s_type = default
+417	or	or	X	X	_	_	_	_	_
+418	if	if	X	X	_	_	_	_	_
+419	you	you	X	X	_	_	_	_	_
+420	'	'	X	X	_	_	_	_	_
+421	re	re	X	X	_	_	_	_	_
+422	really	really	X	X	_	_	_	_	_
+423	unsure	unsure	X	X	_	_	_	_	_
+424	,	,	X	X	_	_	_	_	_
+
+# sent_id = 31
+# s_type = default
+425	you	you	X	X	_	_	_	_	_
+426	might	might	X	X	_	_	_	_	_
+427	want	want	X	X	_	_	_	_	_
+428	to	to	X	X	_	_	_	_	_
+429	take	take	X	X	_	_	_	_	_
+430	the	the	X	X	_	_	_	_	_
+431	voltage	voltage	X	X	_	_	_	_	_
+432	measurement	measurement	X	X	_	_	_	_	_
+433	from	from	X	X	_	_	_	_	_
+434	both	both	X	X	_	_	_	_	_
+435	a	a	X	X	_	_	_	_	_
+436	DC	dc	X	X	_	_	_	_	_
+437	setting	setting	X	X	_	_	_	_	_
+438	and	and	X	X	_	_	_	_	_
+439	an	an	X	X	_	_	_	_	_
+440	AC	ac	X	X	_	_	_	_	_
+441	setting	setting	X	X	_	_	_	_	_
+442	if	if	X	X	_	_	_	_	_
+443	you	you	X	X	_	_	_	_	_
+444	'	'	X	X	_	_	_	_	_
+445	re	re	X	X	_	_	_	_	_
+446	not	not	X	X	_	_	_	_	_
+447	sure	sure	X	X	_	_	_	_	_
+448	.	.	X	X	_	_	_	_	_
+
+# sent_id = 32
+# s_type = default
+449	Now	now	X	X	_	_	_	_	_
+450	,	,	X	X	_	_	_	_	_
+451	I	i	X	X	_	_	_	_	_
+452	'	'	X	X	_	_	_	_	_
+453	m	m	X	X	_	_	_	_	_
+454	confident	confident	X	X	_	_	_	_	_
+455	that	that	X	X	_	_	_	_	_
+456	this	this	X	X	_	_	_	_	_
+457	is	is	X	X	_	_	_	_	_
+458	an	an	X	X	_	_	_	_	_
+459	AC	ac	X	X	_	_	_	_	_
+460	circuit	circuit	X	X	_	_	_	_	_
+461	,	,	X	X	_	_	_	_	_
+
+# sent_id = 33
+# s_type = default
+462	so	so	X	X	_	_	_	_	_
+463	I	i	X	X	_	_	_	_	_
+464	'	'	X	X	_	_	_	_	_
+465	m	m	X	X	_	_	_	_	_
+466	going	going	X	X	_	_	_	_	_
+467	to	to	X	X	_	_	_	_	_
+468	come	come	X	X	_	_	_	_	_
+469	here	here	X	X	_	_	_	_	_
+470	and	and	X	X	_	_	_	_	_
+471	I	i	X	X	_	_	_	_	_
+472	'	'	X	X	_	_	_	_	_
+473	m	m	X	X	_	_	_	_	_
+474	going	going	X	X	_	_	_	_	_
+475	to	to	X	X	_	_	_	_	_
+476	measure	measure	X	X	_	_	_	_	_
+477	the	the	X	X	_	_	_	_	_
+478	AC	ac	X	X	_	_	_	_	_
+479	across	across	X	X	_	_	_	_	_
+480	here	here	X	X	_	_	_	_	_
+481	,	,	X	X	_	_	_	_	_
+
+# sent_id = 34
+# s_type = default
+482	and	and	X	X	_	_	_	_	_
+483	I	i	X	X	_	_	_	_	_
+484	am	am	X	X	_	_	_	_	_
+485	getting	getting	X	X	_	_	_	_	_
+486	zero	zero	X	X	_	_	_	_	_
+487	volts	volts	X	X	_	_	_	_	_
+488	.	.	X	X	_	_	_	_	_
+
+# sent_id = 35
+# s_type = default
+489	Now	now	X	X	_	_	_	_	_
+490	,	,	X	X	_	_	_	_	_
+491	if	if	X	X	_	_	_	_	_
+492	I	i	X	X	_	_	_	_	_
+493	can	can	X	X	_	_	_	_	_
+494	verify	verify	X	X	_	_	_	_	_
+495	that	that	X	X	_	_	_	_	_
+496	I	i	X	X	_	_	_	_	_
+497	'	'	X	X	_	_	_	_	_
+498	m	m	X	X	_	_	_	_	_
+499	sending	sending	X	X	_	_	_	_	_
+500	voltage	voltage	X	X	_	_	_	_	_
+501	out	out	X	X	_	_	_	_	_
+502	there	there	X	X	_	_	_	_	_
+503	,	,	X	X	_	_	_	_	_
+
+# sent_id = 36
+# s_type = default
+504	I	i	X	X	_	_	_	_	_
+505	'	'	X	X	_	_	_	_	_
+506	m	m	X	X	_	_	_	_	_
+507	sending	sending	X	X	_	_	_	_	_
+508	a	a	X	X	_	_	_	_	_
+509	logical	logical	X	X	_	_	_	_	_
+510	signal	signal	X	X	_	_	_	_	_
+511	to	to	X	X	_	_	_	_	_
+512	the	the	X	X	_	_	_	_	_
+513	output	output	X	X	_	_	_	_	_
+514	,	,	X	X	_	_	_	_	_
+
+# sent_id = 37
+# s_type = default
+515	and	and	X	X	_	_	_	_	_
+516	I	i	X	X	_	_	_	_	_
+517	'	'	X	X	_	_	_	_	_
+518	m	m	X	X	_	_	_	_	_
+519	not	not	X	X	_	_	_	_	_
+520	getting	getting	X	X	_	_	_	_	_
+521	anything	anything	X	X	_	_	_	_	_
+522	.	.	X	X	_	_	_	_	_
+
+# sent_id = 38
+# s_type = default
+523	So	so	X	X	_	_	_	_	_
+524	,	,	X	X	_	_	_	_	_
+525	you	you	X	X	_	_	_	_	_
+526	can	can	X	X	_	_	_	_	_
+527	see	see	X	X	_	_	_	_	_
+528	that	that	X	X	_	_	_	_	_
+529	there	there	X	X	_	_	_	_	_
+530	'	'	X	X	_	_	_	_	_
+531	s	s	X	X	_	_	_	_	_
+532	no	no	X	X	_	_	_	_	_
+533	voltage	voltage	X	X	_	_	_	_	_
+534	here	here	X	X	_	_	_	_	_
+535	being	being	X	X	_	_	_	_	_
+536	displayed	displayed	X	X	_	_	_	_	_
+537	on	on	X	X	_	_	_	_	_
+538	the	the	X	X	_	_	_	_	_
+539	meter	meter	X	X	_	_	_	_	_
+540	.	.	X	X	_	_	_	_	_
+
+# sent_id = 39
+# s_type = default
+541	Now	now	X	X	_	_	_	_	_
+542	,	,	X	X	_	_	_	_	_
+543	I	i	X	X	_	_	_	_	_
+544	know	know	X	X	_	_	_	_	_
+545	that	that	X	X	_	_	_	_	_
+546	the	the	X	X	_	_	_	_	_
+547	device	device	X	X	_	_	_	_	_
+548	is	is	X	X	_	_	_	_	_
+549	not	not	X	X	_	_	_	_	_
+550	the	the	X	X	_	_	_	_	_
+551	problem	problem	X	X	_	_	_	_	_
+552	,	,	X	X	_	_	_	_	_
+
+# sent_id = 40
+# s_type = default
+553	so	so	X	X	_	_	_	_	_
+554	I	i	X	X	_	_	_	_	_
+555	can	can	X	X	_	_	_	_	_
+556	go	go	X	X	_	_	_	_	_
+557	ahead	ahead	X	X	_	_	_	_	_
+558	and	and	X	X	_	_	_	_	_
+559	close	close	X	X	_	_	_	_	_
+560	this	this	X	X	_	_	_	_	_
+561	up	up	X	X	_	_	_	_	_
+562	,	,	X	X	_	_	_	_	_
+
+# sent_id = 41
+# s_type = default
+563	and	and	X	X	_	_	_	_	_
+564	then	then	X	X	_	_	_	_	_
+565	I	i	X	X	_	_	_	_	_
+566	can	can	X	X	_	_	_	_	_
+567	uh	uh	X	X	_	_	_	_	_
+568	start	start	X	X	_	_	_	_	_
+569	to	to	X	X	_	_	_	_	_
+570	troubleshoot	troubleshoot	X	X	_	_	_	_	_
+571	from	from	X	X	_	_	_	_	_
+572	there	there	X	X	_	_	_	_	_
+573	.	.	X	X	_	_	_	_	_
+
+# sent_id = 42
+# s_type = default
+574	So	so	X	X	_	_	_	_	_
+575	,	,	X	X	_	_	_	_	_
+576	now	now	X	X	_	_	_	_	_
+577	if	if	X	X	_	_	_	_	_
+578	I	i	X	X	_	_	_	_	_
+579	were	were	X	X	_	_	_	_	_
+580	to	to	X	X	_	_	_	_	_
+581	trace	trace	X	X	_	_	_	_	_
+582	these	these	X	X	_	_	_	_	_
+583	wires	wires	X	X	_	_	_	_	_
+584	back	back	X	X	_	_	_	_	_
+585	,	,	X	X	_	_	_	_	_
+
+# sent_id = 43
+# s_type = default
+586	I	i	X	X	_	_	_	_	_
+587	would	would	X	X	_	_	_	_	_
+588	find	find	X	X	_	_	_	_	_
+589	very	very	X	X	_	_	_	_	_
+590	quickly	quickly	X	X	_	_	_	_	_
+591	that	that	X	X	_	_	_	_	_
+592	there	there	X	X	_	_	_	_	_
+593	are	are	X	X	_	_	_	_	_
+594	no	no	X	X	_	_	_	_	_
+595	terminal	terminal	X	X	_	_	_	_	_
+596	blocks	blocks	X	X	_	_	_	_	_
+597	in	in	X	X	_	_	_	_	_
+598	here	here	X	X	_	_	_	_	_
+599	or	or	X	X	_	_	_	_	_
+600	up	up	X	X	_	_	_	_	_
+601	into	into	X	X	_	_	_	_	_
+602	the	the	X	X	_	_	_	_	_
+603	point	point	X	X	_	_	_	_	_
+604	where	where	X	X	_	_	_	_	_
+605	we	we	X	X	_	_	_	_	_
+606	actually	actually	X	X	_	_	_	_	_
+607	get	get	X	X	_	_	_	_	_
+608	into	into	X	X	_	_	_	_	_
+609	the	the	X	X	_	_	_	_	_
+610	control	control	X	X	_	_	_	_	_
+611	panel	panel	X	X	_	_	_	_	_
+612	itself	itself	X	X	_	_	_	_	_
+613	.	.	X	X	_	_	_	_	_
+
+# sent_id = 44
+# s_type = default
+614	So	so	X	X	_	_	_	_	_
+615	,	,	X	X	_	_	_	_	_
+616	let	let	X	X	_	_	_	_	_
+617	'	'	X	X	_	_	_	_	_
+618	s	s	X	X	_	_	_	_	_
+619	go	go	X	X	_	_	_	_	_
+620	ahead	ahead	X	X	_	_	_	_	_
+621	and	and	X	X	_	_	_	_	_
+622	dive	dive	X	X	_	_	_	_	_
+623	into	into	X	X	_	_	_	_	_
+624	the	the	X	X	_	_	_	_	_
+625	control	control	X	X	_	_	_	_	_
+626	panel	panel	X	X	_	_	_	_	_
+627	and	and	X	X	_	_	_	_	_
+628	(	(	X	X	_	_	_	_	_
+629	see	see	X	X	_	_	_	_	_
+630	)	)	X	X	_	_	_	_	_
+631	how	how	X	X	_	_	_	_	_
+632	we	we	X	X	_	_	_	_	_
+633	could	could	X	X	_	_	_	_	_
+634	figure	figure	X	X	_	_	_	_	_
+635	out	out	X	X	_	_	_	_	_
+636	if	if	X	X	_	_	_	_	_
+637	this	this	X	X	_	_	_	_	_
+638	is	is	X	X	_	_	_	_	_
+639	a	a	X	X	_	_	_	_	_
+640	wiring	wiring	X	X	_	_	_	_	_
+641	problem	problem	X	X	_	_	_	_	_
+642	or	or	X	X	_	_	_	_	_
+643	is	is	X	X	_	_	_	_	_
+644	the	the	X	X	_	_	_	_	_
+645	output	output	X	X	_	_	_	_	_
+646	on	on	X	X	_	_	_	_	_
+647	the	the	X	X	_	_	_	_	_
+648	PLC	plc	X	X	_	_	_	_	_
+649	bad	bad	X	X	_	_	_	_	_
+650	.	.	X	X	_	_	_	_	_
+
+# sent_id = 45
+# s_type = default
+651	So	so	X	X	_	_	_	_	_
+652	,	,	X	X	_	_	_	_	_
+653	that	that	X	X	_	_	_	_	_
+654	'	'	X	X	_	_	_	_	_
+655	s	s	X	X	_	_	_	_	_
+656	the	the	X	X	_	_	_	_	_
+657	next	next	X	X	_	_	_	_	_
+658	phase	phase	X	X	_	_	_	_	_
+659	.	.	X	X	_	_	_	_	_
+
+# sent_id = 46
+# s_type = default
+660	Now	now	X	X	_	_	_	_	_
+661	,	,	X	X	_	_	_	_	_
+662	what	what	X	X	_	_	_	_	_
+663	I	i	X	X	_	_	_	_	_
+664	'	'	X	X	_	_	_	_	_
+665	m	m	X	X	_	_	_	_	_
+666	going	going	X	X	_	_	_	_	_
+667	to	to	X	X	_	_	_	_	_
+668	do	do	X	X	_	_	_	_	_
+669	is	is	X	X	_	_	_	_	_
+670	I	i	X	X	_	_	_	_	_
+671	'	'	X	X	_	_	_	_	_
+672	m	m	X	X	_	_	_	_	_
+673	going	going	X	X	_	_	_	_	_
+674	to	to	X	X	_	_	_	_	_
+675	force	force	X	X	_	_	_	_	_
+676	this	this	X	X	_	_	_	_	_
+677	output	output	X	X	_	_	_	_	_
+678	on	on	X	X	_	_	_	_	_
+
+# sent_id = 47
+# s_type = default
+679	so	so	X	X	_	_	_	_	_
+680	I	i	X	X	_	_	_	_	_
+681	can	can	X	X	_	_	_	_	_
+682	see	see	X	X	_	_	_	_	_
+683	what	what	X	X	_	_	_	_	_
+684	'	'	X	X	_	_	_	_	_
+685	s	s	X	X	_	_	_	_	_
+686	going	going	X	X	_	_	_	_	_
+687	on	on	X	X	_	_	_	_	_
+688	with	with	X	X	_	_	_	_	_
+689	it	it	X	X	_	_	_	_	_
+690	.	.	X	X	_	_	_	_	_
+
+# sent_id = 48
+# s_type = default
+691	So	so	X	X	_	_	_	_	_
+692	,	,	X	X	_	_	_	_	_
+693	I	i	X	X	_	_	_	_	_
+694	'	'	X	X	_	_	_	_	_
+695	m	m	X	X	_	_	_	_	_
+696	going	going	X	X	_	_	_	_	_
+697	to	to	X	X	_	_	_	_	_
+698	force	force	X	X	_	_	_	_	_
+699	this	this	X	X	_	_	_	_	_
+700	output	output	X	X	_	_	_	_	_
+701	on	on	X	X	_	_	_	_	_
+
+# sent_id = 49
+# s_type = default
+702	and	and	X	X	_	_	_	_	_
+703	right	right	X	X	_	_	_	_	_
+704	now	now	X	X	_	_	_	_	_
+705	,	,	X	X	_	_	_	_	_
+706	my	my	X	X	_	_	_	_	_
+707	light	light	X	X	_	_	_	_	_
+708	'	'	X	X	_	_	_	_	_
+709	s	s	X	X	_	_	_	_	_
+710	still	still	X	X	_	_	_	_	_
+711	not	not	X	X	_	_	_	_	_
+712	on	on	X	X	_	_	_	_	_
+
+# sent_id = 50
+# s_type = default
+713	but	but	X	X	_	_	_	_	_
+714	now	now	X	X	_	_	_	_	_
+715	I	i	X	X	_	_	_	_	_
+716	can	can	X	X	_	_	_	_	_
+717	begin	begin	X	X	_	_	_	_	_
+718	to	to	X	X	_	_	_	_	_
+719	troubleshoot	troubleshoot	X	X	_	_	_	_	_
+720	where	where	X	X	_	_	_	_	_
+721	I	i	X	X	_	_	_	_	_
+722	'	'	X	X	_	_	_	_	_
+723	m	m	X	X	_	_	_	_	_
+724	losing	losing	X	X	_	_	_	_	_
+725	voltage	voltage	X	X	_	_	_	_	_
+726	.	.	X	X	_	_	_	_	_
+
+# sent_id = 51
+# s_type = default
+727	So	so	X	X	_	_	_	_	_
+728	,	,	X	X	_	_	_	_	_
+729	I	i	X	X	_	_	_	_	_
+730	would	would	X	X	_	_	_	_	_
+731	do	do	X	X	_	_	_	_	_
+732	this	this	X	X	_	_	_	_	_
+733	a	a	X	X	_	_	_	_	_
+734	little	little	X	X	_	_	_	_	_
+735	bit	bit	X	X	_	_	_	_	_
+736	differently	differently	X	X	_	_	_	_	_
+
+# sent_id = 52
+# s_type = default
+737	if	if	X	X	_	_	_	_	_
+738	I	i	X	X	_	_	_	_	_
+739	was	was	X	X	_	_	_	_	_
+740	out	out	X	X	_	_	_	_	_
+741	in	in	X	X	_	_	_	_	_
+742	the	the	X	X	_	_	_	_	_
+743	field	field	X	X	_	_	_	_	_
+744	,	,	X	X	_	_	_	_	_
+745	not	not	X	X	_	_	_	_	_
+746	filming	filming	X	X	_	_	_	_	_
+747	a	a	X	X	_	_	_	_	_
+748	video	video	X	X	_	_	_	_	_
+749	,	,	X	X	_	_	_	_	_
+750	as	as	X	X	_	_	_	_	_
+751	far	far	X	X	_	_	_	_	_
+752	as	as	X	X	_	_	_	_	_
+753	where	where	X	X	_	_	_	_	_
+754	I	i	X	X	_	_	_	_	_
+755	would	would	X	X	_	_	_	_	_
+756	put	put	X	X	_	_	_	_	_
+757	my	my	X	X	_	_	_	_	_
+758	voltage	voltage	X	X	_	_	_	_	_
+759	measurement	measurement	X	X	_	_	_	_	_
+760	.	.	X	X	_	_	_	_	_
+
+# sent_id = 53
+# s_type = default
+761	I	i	X	X	_	_	_	_	_
+762	want	want	X	X	_	_	_	_	_
+763	to	to	X	X	_	_	_	_	_
+764	make	make	X	X	_	_	_	_	_
+765	sure	sure	X	X	_	_	_	_	_
+766	where	where	X	X	_	_	_	_	_
+767	I	i	X	X	_	_	_	_	_
+768	'	'	X	X	_	_	_	_	_
+769	m	m	X	X	_	_	_	_	_
+770	pulling	pulling	X	X	_	_	_	_	_
+771	a	a	X	X	_	_	_	_	_
+772	neutral	neutral	X	X	_	_	_	_	_
+773	from	from	X	X	_	_	_	_	_
+774	.	.	X	X	_	_	_	_	_
+
+# sent_id = 54
+# s_type = default
+775	So	so	X	X	_	_	_	_	_
+776	,	,	X	X	_	_	_	_	_
+777	I	i	X	X	_	_	_	_	_
+778	'	'	X	X	_	_	_	_	_
+779	m	m	X	X	_	_	_	_	_
+780	going	going	X	X	_	_	_	_	_
+781	to	to	X	X	_	_	_	_	_
+782	come	come	X	X	_	_	_	_	_
+783	over	over	X	X	_	_	_	_	_
+784	to	to	X	X	_	_	_	_	_
+785	where	where	X	X	_	_	_	_	_
+786	I	i	X	X	_	_	_	_	_
+787	should	should	X	X	_	_	_	_	_
+788	have	have	X	X	_	_	_	_	_
+789	a	a	X	X	_	_	_	_	_
+790	consistent	consistent	X	X	_	_	_	_	_
+791	120	120	X	X	_	_	_	_	_
+792	power	power	X	X	_	_	_	_	_
+793	.	.	X	X	_	_	_	_	_
+
+# sent_id = 55
+# s_type = default
+794	So	so	X	X	_	_	_	_	_
+795	,	,	X	X	_	_	_	_	_
+796	I	i	X	X	_	_	_	_	_
+797	have	have	X	X	_	_	_	_	_
+798	a	a	X	X	_	_	_	_	_
+799	neutral	neutral	X	X	_	_	_	_	_
+800	here	here	X	X	_	_	_	_	_
+801	and	and	X	X	_	_	_	_	_
+802	a	a	X	X	_	_	_	_	_
+803	hotline	hotline	X	X	_	_	_	_	_
+804	,	,	X	X	_	_	_	_	_
+805	okay	okay	X	X	_	_	_	_	_
+
+# sent_id = 56
+# s_type = default
+806	and	and	X	X	_	_	_	_	_
+807	I	i	X	X	_	_	_	_	_
+808	'	'	X	X	_	_	_	_	_
+809	m	m	X	X	_	_	_	_	_
+810	getting	getting	X	X	_	_	_	_	_
+811	120	120	X	X	_	_	_	_	_
+812	volts	volts	X	X	_	_	_	_	_
+813	,	,	X	X	_	_	_	_	_
+814	which	which	X	X	_	_	_	_	_
+815	is	is	X	X	_	_	_	_	_
+816	great	great	X	X	_	_	_	_	_
+817	.	.	X	X	_	_	_	_	_
+
+# sent_id = 57
+# s_type = default
+818	Then	then	X	X	_	_	_	_	_
+819	,	,	X	X	_	_	_	_	_
+820	what	what	X	X	_	_	_	_	_
+821	I	i	X	X	_	_	_	_	_
+822	want	want	X	X	_	_	_	_	_
+823	to	to	X	X	_	_	_	_	_
+824	do	do	X	X	_	_	_	_	_
+825	is	is	X	X	_	_	_	_	_
+826	figure	figure	X	X	_	_	_	_	_
+827	out	out	X	X	_	_	_	_	_
+828	which	which	X	X	_	_	_	_	_
+829	output	output	X	X	_	_	_	_	_
+830	this	this	X	X	_	_	_	_	_
+831	is	is	X	X	_	_	_	_	_
+832	.	.	X	X	_	_	_	_	_
+
+# sent_id = 58
+# s_type = default
+833	Now	now	X	X	_	_	_	_	_
+834	,	,	X	X	_	_	_	_	_
+835	this	this	X	X	_	_	_	_	_
+836	is	is	X	X	_	_	_	_	_
+837	where	where	X	X	_	_	_	_	_
+838	things	things	X	X	_	_	_	_	_
+839	get	get	X	X	_	_	_	_	_
+840	different	different	X	X	_	_	_	_	_
+841	.	.	X	X	_	_	_	_	_
+
+# sent_id = 59
+# s_type = default
+842	Every	every	X	X	_	_	_	_	_
+843	PLC	plc	X	X	_	_	_	_	_
+844	will	will	X	X	_	_	_	_	_
+845	be	be	X	X	_	_	_	_	_
+846	a	a	X	X	_	_	_	_	_
+847	little	little	X	X	_	_	_	_	_
+848	bit	bit	X	X	_	_	_	_	_
+849	different	different	X	X	_	_	_	_	_
+
+# sent_id = 60
+# s_type = default
+850	but	but	X	X	_	_	_	_	_
+851	when	when	X	X	_	_	_	_	_
+852	you	you	X	X	_	_	_	_	_
+853	'	'	X	X	_	_	_	_	_
+854	re	re	X	X	_	_	_	_	_
+855	checking	checking	X	X	_	_	_	_	_
+856	an	an	X	X	_	_	_	_	_
+857	output	output	X	X	_	_	_	_	_
+858	,	,	X	X	_	_	_	_	_
+859	what	what	X	X	_	_	_	_	_
+860	you	you	X	X	_	_	_	_	_
+861	want	want	X	X	_	_	_	_	_
+862	to	to	X	X	_	_	_	_	_
+863	do	do	X	X	_	_	_	_	_
+864	is	is	X	X	_	_	_	_	_
+865	you	you	X	X	_	_	_	_	_
+866	want	want	X	X	_	_	_	_	_
+867	to	to	X	X	_	_	_	_	_
+868	put	put	X	X	_	_	_	_	_
+869	your	your	X	X	_	_	_	_	_
+870	neutral	neutral	X	X	_	_	_	_	_
+871	in	in	X	X	_	_	_	_	_
+872	a	a	X	X	_	_	_	_	_
+873	place	place	X	X	_	_	_	_	_
+874	where	where	X	X	_	_	_	_	_
+875	you	you	X	X	_	_	_	_	_
+876	know	know	X	X	_	_	_	_	_
+877	that	that	X	X	_	_	_	_	_
+878	it	it	X	X	_	_	_	_	_
+879	has	has	X	X	_	_	_	_	_
+880	a	a	X	X	_	_	_	_	_
+881	signal	signal	X	X	_	_	_	_	_
+882	.	.	X	X	_	_	_	_	_
+
+# sent_id = 61
+# s_type = default
+883	So	so	X	X	_	_	_	_	_
+884	,	,	X	X	_	_	_	_	_
+885	we	we	X	X	_	_	_	_	_
+886	went	went	X	X	_	_	_	_	_
+887	ahead	ahead	X	X	_	_	_	_	_
+888	and	and	X	X	_	_	_	_	_
+889	verified	verified	X	X	_	_	_	_	_
+890	this	this	X	X	_	_	_	_	_
+891	is	is	X	X	_	_	_	_	_
+892	120	120	X	X	_	_	_	_	_
+
+# sent_id = 62
+# s_type = default
+893	so	so	X	X	_	_	_	_	_
+894	I	i	X	X	_	_	_	_	_
+895	'	'	X	X	_	_	_	_	_
+896	ll	ll	X	X	_	_	_	_	_
+897	leave	leave	X	X	_	_	_	_	_
+898	my	my	X	X	_	_	_	_	_
+899	neutral	neutral	X	X	_	_	_	_	_
+900	here	here	X	X	_	_	_	_	_
+901	.	.	X	X	_	_	_	_	_
+
+# sent_id = 63
+# s_type = default
+902	So	so	X	X	_	_	_	_	_
+903	,	,	X	X	_	_	_	_	_
+904	I	i	X	X	_	_	_	_	_
+905	'	'	X	X	_	_	_	_	_
+906	ll	ll	X	X	_	_	_	_	_
+907	come	come	X	X	_	_	_	_	_
+908	in	in	X	X	_	_	_	_	_
+909	here	here	X	X	_	_	_	_	_
+
+# sent_id = 64
+# s_type = default
+910	and	and	X	X	_	_	_	_	_
+911	I	i	X	X	_	_	_	_	_
+912	'	'	X	X	_	_	_	_	_
+913	ll	ll	X	X	_	_	_	_	_
+914	test	test	X	X	_	_	_	_	_
+915	the	the	X	X	_	_	_	_	_
+916	terminal	terminal	X	X	_	_	_	_	_
+917	block	block	X	X	_	_	_	_	_
+918	at	at	X	X	_	_	_	_	_
+919	one	one	X	X	_	_	_	_	_
+920	.	.	X	X	_	_	_	_	_
+
+# sent_id = 65
+# s_type = default
+921	So	so	X	X	_	_	_	_	_
+922	,	,	X	X	_	_	_	_	_
+923	this	this	X	X	_	_	_	_	_
+924	wire	wire	X	X	_	_	_	_	_
+925	right	right	X	X	_	_	_	_	_
+926	here	here	X	X	_	_	_	_	_
+927	runs	runs	X	X	_	_	_	_	_
+928	to	to	X	X	_	_	_	_	_
+929	the	the	X	X	_	_	_	_	_
+930	light	light	X	X	_	_	_	_	_
+931	that	that	X	X	_	_	_	_	_
+932	we	we	X	X	_	_	_	_	_
+933	just	just	X	X	_	_	_	_	_
+934	tested	tested	X	X	_	_	_	_	_
+935	.	.	X	X	_	_	_	_	_
+
+# sent_id = 66
+# s_type = default
+936	So	so	X	X	_	_	_	_	_
+937	,	,	X	X	_	_	_	_	_
+938	we	we	X	X	_	_	_	_	_
+939	click	click	X	X	_	_	_	_	_
+940	,	,	X	X	_	_	_	_	_
+941	we	we	X	X	_	_	_	_	_
+942	select	select	X	X	_	_	_	_	_
+943	here	here	X	X	_	_	_	_	_
+
+# sent_id = 67
+# s_type = default
+944	nothing—we	nothing—we	X	X	_	_	_	_	_
+945	have	have	X	X	_	_	_	_	_
+946	no	no	X	X	_	_	_	_	_
+947	voltage	voltage	X	X	_	_	_	_	_
+948	here	here	X	X	_	_	_	_	_
+949	.	.	X	X	_	_	_	_	_
+
+# sent_id = 68
+# s_type = default
+950	We	we	X	X	_	_	_	_	_
+951	come	come	X	X	_	_	_	_	_
+952	here	here	X	X	_	_	_	_	_
+953	,	,	X	X	_	_	_	_	_
+954	select	select	X	X	_	_	_	_	_
+955	this	this	X	X	_	_	_	_	_
+
+# sent_id = 69
+# s_type = default
+956	we	we	X	X	_	_	_	_	_
+957	have	have	X	X	_	_	_	_	_
+958	no	no	X	X	_	_	_	_	_
+959	voltage	voltage	X	X	_	_	_	_	_
+960	.	.	X	X	_	_	_	_	_
+
+# sent_id = 70
+# s_type = default
+961	So	so	X	X	_	_	_	_	_
+962	,	,	X	X	_	_	_	_	_
+963	then	then	X	X	_	_	_	_	_
+964	that	that	X	X	_	_	_	_	_
+965	means	means	X	X	_	_	_	_	_
+966	that	that	X	X	_	_	_	_	_
+967	the	the	X	X	_	_	_	_	_
+968	problem	problem	X	X	_	_	_	_	_
+969	isn	isn	X	X	_	_	_	_	_
+970	'	'	X	X	_	_	_	_	_
+971	t	t	X	X	_	_	_	_	_
+972	here	here	X	X	_	_	_	_	_
+973	,	,	X	X	_	_	_	_	_
+974	okay	okay	X	X	_	_	_	_	_
+975	?	?	X	X	_	_	_	_	_
+
+# sent_id = 71
+# s_type = default
+976	Because	because	X	X	_	_	_	_	_
+977	if	if	X	X	_	_	_	_	_
+978	we	we	X	X	_	_	_	_	_
+979	were	were	X	X	_	_	_	_	_
+980	getting	getting	X	X	_	_	_	_	_
+981	,	,	X	X	_	_	_	_	_
+982	let	let	X	X	_	_	_	_	_
+983	'	'	X	X	_	_	_	_	_
+984	s	s	X	X	_	_	_	_	_
+985	say	say	X	X	_	_	_	_	_
+986	we	we	X	X	_	_	_	_	_
+987	were	were	X	X	_	_	_	_	_
+988	getting	getting	X	X	_	_	_	_	_
+989	voltage	voltage	X	X	_	_	_	_	_
+990	here	here	X	X	_	_	_	_	_
+991	but	but	X	X	_	_	_	_	_
+992	not	not	X	X	_	_	_	_	_
+993	here	here	X	X	_	_	_	_	_
+994	.	.	X	X	_	_	_	_	_
+
+# sent_id = 72
+# s_type = default
+995	The	the	X	X	_	_	_	_	_
+996	terminal	terminal	X	X	_	_	_	_	_
+997	block	block	X	X	_	_	_	_	_
+998	would	would	X	X	_	_	_	_	_
+999	have	have	X	X	_	_	_	_	_
+1000	been	been	X	X	_	_	_	_	_
+1001	cut	cut	X	X	_	_	_	_	_
+1002	,	,	X	X	_	_	_	_	_
+1003	which	which	X	X	_	_	_	_	_
+1004	would	would	X	X	_	_	_	_	_
+1005	be	be	X	X	_	_	_	_	_
+1006	very	very	X	X	_	_	_	_	_
+1007	unusual	unusual	X	X	_	_	_	_	_
+1008	.	.	X	X	_	_	_	_	_
+
+# sent_id = 73
+# s_type = default
+1009	Alright	alright	X	X	_	_	_	_	_
+1010	,	,	X	X	_	_	_	_	_
+1011	so	so	X	X	_	_	_	_	_
+1012	let	let	X	X	_	_	_	_	_
+1013	'	'	X	X	_	_	_	_	_
+1014	s	s	X	X	_	_	_	_	_
+1015	trace	trace	X	X	_	_	_	_	_
+1016	this	this	X	X	_	_	_	_	_
+1017	up	up	X	X	_	_	_	_	_
+1018	now	now	X	X	_	_	_	_	_
+
+# sent_id = 74
+# s_type = default
+1019	and	and	X	X	_	_	_	_	_
+1020	we	we	X	X	_	_	_	_	_
+1021	'	'	X	X	_	_	_	_	_
+1022	ll	ll	X	X	_	_	_	_	_
+1023	go	go	X	X	_	_	_	_	_
+1024	to	to	X	X	_	_	_	_	_
+1025	Output	output	X	X	_	_	_	_	_
+1026	One	one	X	X	_	_	_	_	_
+1027	.	.	X	X	_	_	_	_	_
+
+# sent_id = 75
+# s_type = default
+1028	Alright	alright	X	X	_	_	_	_	_
+1029	,	,	X	X	_	_	_	_	_
+1030	and	and	X	X	_	_	_	_	_
+1031	Output	output	X	X	_	_	_	_	_
+1032	One	one	X	X	_	_	_	_	_
+1033	is	is	X	X	_	_	_	_	_
+1034	on	on	X	X	_	_	_	_	_
+1035	the	the	X	X	_	_	_	_	_
+1036	top	top	X	X	_	_	_	_	_
+1037	layer	layer	X	X	_	_	_	_	_
+1038	here	here	X	X	_	_	_	_	_
+
+# sent_id = 76
+# s_type = default
+1039	and	and	X	X	_	_	_	_	_
+1040	again	again	X	X	_	_	_	_	_
+1041	,	,	X	X	_	_	_	_	_
+1042	I	i	X	X	_	_	_	_	_
+1043	know	know	X	X	_	_	_	_	_
+1044	that	that	X	X	_	_	_	_	_
+1045	it	it	X	X	_	_	_	_	_
+1046	is	is	X	X	_	_	_	_	_
+1047	forced	forced	X	X	_	_	_	_	_
+1048	on	on	X	X	_	_	_	_	_
+
+# sent_id = 77
+# s_type = default
+1049	and	and	X	X	_	_	_	_	_
+1050	I	i	X	X	_	_	_	_	_
+1051	'	'	X	X	_	_	_	_	_
+1052	m	m	X	X	_	_	_	_	_
+1053	not	not	X	X	_	_	_	_	_
+1054	getting	getting	X	X	_	_	_	_	_
+1055	anything	anything	X	X	_	_	_	_	_
+1056	here	here	X	X	_	_	_	_	_
+1057	,	,	X	X	_	_	_	_	_
+1058	all	all	X	X	_	_	_	_	_
+1059	right	right	X	X	_	_	_	_	_
+1060	?	?	X	X	_	_	_	_	_
+
+# sent_id = 78
+# s_type = default
+1061	So	so	X	X	_	_	_	_	_
+1062	,	,	X	X	_	_	_	_	_
+1063	what	what	X	X	_	_	_	_	_
+1064	that	that	X	X	_	_	_	_	_
+1065	means	means	X	X	_	_	_	_	_
+1066	is	is	X	X	_	_	_	_	_
+1067	the	the	X	X	_	_	_	_	_
+1068	output	output	X	X	_	_	_	_	_
+1069	isn	isn	X	X	_	_	_	_	_
+1070	'	'	X	X	_	_	_	_	_
+1071	t	t	X	X	_	_	_	_	_
+1072	closing	closing	X	X	_	_	_	_	_
+1073	.	.	X	X	_	_	_	_	_
+
+# sent_id = 79
+# s_type = default
+1074	This	this	X	X	_	_	_	_	_
+1075	is	is	X	X	_	_	_	_	_
+1076	a	a	X	X	_	_	_	_	_
+1077	relay	relay	X	X	_	_	_	_	_
+1078	type	type	X	X	_	_	_	_	_
+1079	PLC	plc	X	X	_	_	_	_	_
+1080	.	.	X	X	_	_	_	_	_
+
+# sent_id = 80
+# s_type = default
+1081	So	so	X	X	_	_	_	_	_
+1082	,	,	X	X	_	_	_	_	_
+1083	now	now	X	X	_	_	_	_	_
+1084	what	what	X	X	_	_	_	_	_
+1085	I	i	X	X	_	_	_	_	_
+1086	can	can	X	X	_	_	_	_	_
+1087	do	do	X	X	_	_	_	_	_
+1088	is	is	X	X	_	_	_	_	_
+1089	go	go	X	X	_	_	_	_	_
+1090	to	to	X	X	_	_	_	_	_
+1091	the	the	X	X	_	_	_	_	_
+1092	power	power	X	X	_	_	_	_	_
+1093	source	source	X	X	_	_	_	_	_
+1094	on	on	X	X	_	_	_	_	_
+1095	the	the	X	X	_	_	_	_	_
+1096	other	other	X	X	_	_	_	_	_
+1097	side	side	X	X	_	_	_	_	_
+1098	of	of	X	X	_	_	_	_	_
+1099	the	the	X	X	_	_	_	_	_
+1100	contact	contact	X	X	_	_	_	_	_
+1101	for	for	X	X	_	_	_	_	_
+1102	the	the	X	X	_	_	_	_	_
+1103	output	output	X	X	_	_	_	_	_
+
+# sent_id = 81
+# s_type = default
+1104	and	and	X	X	_	_	_	_	_
+1105	it	it	X	X	_	_	_	_	_
+1106	is	is	X	X	_	_	_	_	_
+1107	120	120	X	X	_	_	_	_	_
+1108	volts	volts	X	X	_	_	_	_	_
+1109	.	.	X	X	_	_	_	_	_
+
+# sent_id = 82
+# s_type = default
+1110	If	if	X	X	_	_	_	_	_
+1111	I	i	X	X	_	_	_	_	_
+1112	come	come	X	X	_	_	_	_	_
+1113	here	here	X	X	_	_	_	_	_
+1114	,	,	X	X	_	_	_	_	_
+
+# sent_id = 83
+# s_type = default
+1115	I	i	X	X	_	_	_	_	_
+1116	'	'	X	X	_	_	_	_	_
+1117	m	m	X	X	_	_	_	_	_
+1118	not	not	X	X	_	_	_	_	_
+1119	getting	getting	X	X	_	_	_	_	_
+1120	anything	anything	X	X	_	_	_	_	_
+1121	.	.	X	X	_	_	_	_	_
+
+# sent_id = 84
+# s_type = default
+1122	That	that	X	X	_	_	_	_	_
+1123	means	means	X	X	_	_	_	_	_
+1124	the	the	X	X	_	_	_	_	_
+1125	contact	contact	X	X	_	_	_	_	_
+1126	for	for	X	X	_	_	_	_	_
+1127	this	this	X	X	_	_	_	_	_
+1128	output	output	X	X	_	_	_	_	_
+1129	is	is	X	X	_	_	_	_	_
+1130	not	not	X	X	_	_	_	_	_
+1131	closing	closing	X	X	_	_	_	_	_
+1132	here	here	X	X	_	_	_	_	_
+
+# sent_id = 85
+# s_type = default
+1133	meaning	meaning	X	X	_	_	_	_	_
+1134	that	that	X	X	_	_	_	_	_
+1135	the	the	X	X	_	_	_	_	_
+1136	PLC	plc	X	X	_	_	_	_	_
+1137	output	output	X	X	_	_	_	_	_
+1138	is	is	X	X	_	_	_	_	_
+1139	bad	bad	X	X	_	_	_	_	_
+1140	.	.	X	X	_	_	_	_	_
+
+# sent_id = 86
+# s_type = default
+1141	There	there	X	X	_	_	_	_	_
+1142	'	'	X	X	_	_	_	_	_
+1143	s	s	X	X	_	_	_	_	_
+1144	nothing	nothing	X	X	_	_	_	_	_
+1145	we	we	X	X	_	_	_	_	_
+1146	can	can	X	X	_	_	_	_	_
+1147	do	do	X	X	_	_	_	_	_
+1148	to	to	X	X	_	_	_	_	_
+1149	fix	fix	X	X	_	_	_	_	_
+1150	this	this	X	X	_	_	_	_	_
+1151	output	output	X	X	_	_	_	_	_
+1152	.	.	X	X	_	_	_	_	_
+
+# sent_id = 87
+# s_type = default
+1153	We	we	X	X	_	_	_	_	_
+1154	could	could	X	X	_	_	_	_	_
+1155	swap	swap	X	X	_	_	_	_	_
+1156	the	the	X	X	_	_	_	_	_
+1157	PLC	plc	X	X	_	_	_	_	_
+1158	out	out	X	X	_	_	_	_	_
+1159	or	or	X	X	_	_	_	_	_
+1160	move	move	X	X	_	_	_	_	_
+1161	the	the	X	X	_	_	_	_	_
+1162	light	light	X	X	_	_	_	_	_
+1163	to	to	X	X	_	_	_	_	_
+1164	an	an	X	X	_	_	_	_	_
+1165	output	output	X	X	_	_	_	_	_
+1166	that	that	X	X	_	_	_	_	_
+1167	we	we	X	X	_	_	_	_	_
+1168	know	know	X	X	_	_	_	_	_
+1169	works	works	X	X	_	_	_	_	_
+1170	.	.	X	X	_	_	_	_	_
+
+# sent_id = 88
+# s_type = default
+1171	If	if	X	X	_	_	_	_	_
+1172	we	we	X	X	_	_	_	_	_
+1173	needed	needed	X	X	_	_	_	_	_
+1174	to	to	X	X	_	_	_	_	_
+1175	.	.	X	X	_	_	_	_	_
+
+# sent_id = 89
+# s_type = default
+1176	if	if	X	X	_	_	_	_	_
+1177	there	there	X	X	_	_	_	_	_
+1178	'	'	X	X	_	_	_	_	_
+1179	s	s	X	X	_	_	_	_	_
+1180	space	space	X	X	_	_	_	_	_
+1181	on	on	X	X	_	_	_	_	_
+1182	the	the	X	X	_	_	_	_	_
+1183	card	card	X	X	_	_	_	_	_
+1184	with	with	X	X	_	_	_	_	_
+1185	the	the	X	X	_	_	_	_	_
+1186	type	type	X	X	_	_	_	_	_
+1187	of	of	X	X	_	_	_	_	_
+1188	voltage	voltage	X	X	_	_	_	_	_
+1189	that	that	X	X	_	_	_	_	_
+1190	'	'	X	X	_	_	_	_	_
+1191	s	s	X	X	_	_	_	_	_
+1192	required	required	X	X	_	_	_	_	_
+1193	.	.	X	X	_	_	_	_	_
+
+# sent_id = 90
+# s_type = default
+1194	So	so	X	X	_	_	_	_	_
+1195	,	,	X	X	_	_	_	_	_
+1196	now	now	X	X	_	_	_	_	_
+1197	we	we	X	X	_	_	_	_	_
+1198	know	know	X	X	_	_	_	_	_
+
+# sent_id = 91
+# s_type = default
+1199	and	and	X	X	_	_	_	_	_
+1200	this	this	X	X	_	_	_	_	_
+1201	is	is	X	X	_	_	_	_	_
+1202	how	how	X	X	_	_	_	_	_
+1203	we	we	X	X	_	_	_	_	_
+1204	verified	verified	X	X	_	_	_	_	_
+1205	it	it	X	X	_	_	_	_	_
+1206	.	.	X	X	_	_	_	_	_
+
+# sent_id = 92
+# s_type = default
+1207	So	so	X	X	_	_	_	_	_
+1208	,	,	X	X	_	_	_	_	_
+1209	we	we	X	X	_	_	_	_	_
+1210	just	just	X	X	_	_	_	_	_
+1211	traced	traced	X	X	_	_	_	_	_
+1212	the	the	X	X	_	_	_	_	_
+1213	power	power	X	X	_	_	_	_	_
+1214	back	back	X	X	_	_	_	_	_
+1215	,	,	X	X	_	_	_	_	_
+
+# sent_id = 93
+# s_type = default
+1216	making	making	X	X	_	_	_	_	_
+1217	sure	sure	X	X	_	_	_	_	_
+1218	we	we	X	X	_	_	_	_	_
+1219	'	'	X	X	_	_	_	_	_
+1220	re	re	X	X	_	_	_	_	_
+1221	on	on	X	X	_	_	_	_	_
+1222	this	this	X	X	_	_	_	_	_
+1223	neutral	neutral	X	X	_	_	_	_	_
+1224	to	to	X	X	_	_	_	_	_
+1225	where	where	X	X	_	_	_	_	_
+1226	the	the	X	X	_	_	_	_	_
+1227	power	power	X	X	_	_	_	_	_
+1228	should	should	X	X	_	_	_	_	_
+1229	be	be	X	X	_	_	_	_	_
+1230	.	.	X	X	_	_	_	_	_
+
+# sent_id = 94
+# s_type = default
+1231	If	if	X	X	_	_	_	_	_
+1232	this	this	X	X	_	_	_	_	_
+1233	was	was	X	X	_	_	_	_	_
+1234	on	on	X	X	_	_	_	_	_
+1235	,	,	X	X	_	_	_	_	_
+
+# sent_id = 95
+# s_type = default
+1236	we	we	X	X	_	_	_	_	_
+1237	should	should	X	X	_	_	_	_	_
+1238	be	be	X	X	_	_	_	_	_
+1239	getting	getting	X	X	_	_	_	_	_
+1240	120	120	X	X	_	_	_	_	_
+1241	volts	volts	X	X	_	_	_	_	_
+1242	through	through	X	X	_	_	_	_	_
+1243	here	here	X	X	_	_	_	_	_
+1244	.	.	X	X	_	_	_	_	_
+
+# sent_id = 96
+# s_type = default
+1245	Because	because	X	X	_	_	_	_	_
+1246	this	this	X	X	_	_	_	_	_
+1247	would	would	X	X	_	_	_	_	_
+1248	close	close	X	X	_	_	_	_	_
+1249	.	.	X	X	_	_	_	_	_
+
+# sent_id = 97
+# s_type = default
+1250	electricity	electricity	X	X	_	_	_	_	_
+1251	would	would	X	X	_	_	_	_	_
+1252	flow	flow	X	X	_	_	_	_	_
+1253	through	through	X	X	_	_	_	_	_
+1254	the	the	X	X	_	_	_	_	_
+1255	power	power	X	X	_	_	_	_	_
+1256	line	line	X	X	_	_	_	_	_
+1257	,	,	X	X	_	_	_	_	_
+1258	through	through	X	X	_	_	_	_	_
+1259	here	here	X	X	_	_	_	_	_
+1260	,	,	X	X	_	_	_	_	_
+1261	through	through	X	X	_	_	_	_	_
+1262	there	there	X	X	_	_	_	_	_
+1263	,	,	X	X	_	_	_	_	_
+1264	and	and	X	X	_	_	_	_	_
+1265	you	you	X	X	_	_	_	_	_
+1266	can	can	X	X	_	_	_	_	_
+1267	see	see	X	X	_	_	_	_	_
+1268	this	this	X	X	_	_	_	_	_
+1269	on	on	X	X	_	_	_	_	_
+1270	the	the	X	X	_	_	_	_	_
+1271	schematic	schematic	X	X	_	_	_	_	_
+1272	diagram	diagram	X	X	_	_	_	_	_
+1273	out	out	X	X	_	_	_	_	_
+1274	to	to	X	X	_	_	_	_	_
+1275	the	the	X	X	_	_	_	_	_
+1276	light	light	X	X	_	_	_	_	_
+1277	.	.	X	X	_	_	_	_	_
+
+# sent_id = 98
+# s_type = default
+1278	So	so	X	X	_	_	_	_	_
+1279	,	,	X	X	_	_	_	_	_
+1280	it	it	X	X	_	_	_	_	_
+1281	'	'	X	X	_	_	_	_	_
+1282	s	s	X	X	_	_	_	_	_
+1283	not	not	X	X	_	_	_	_	_
+1284	the	the	X	X	_	_	_	_	_
+1285	light	light	X	X	_	_	_	_	_
+1286	that	that	X	X	_	_	_	_	_
+1287	'	'	X	X	_	_	_	_	_
+1288	s	s	X	X	_	_	_	_	_
+1289	bad	bad	X	X	_	_	_	_	_
+
+# sent_id = 99
+# s_type = default
+1290	it	it	X	X	_	_	_	_	_
+1291	'	'	X	X	_	_	_	_	_
+1292	s	s	X	X	_	_	_	_	_
+1293	not	not	X	X	_	_	_	_	_
+1294	the	the	X	X	_	_	_	_	_
+1295	wiring	wiring	X	X	_	_	_	_	_
+1296	that	that	X	X	_	_	_	_	_
+1297	'	'	X	X	_	_	_	_	_
+1298	s	s	X	X	_	_	_	_	_
+1299	bad	bad	X	X	_	_	_	_	_
+1300	,	,	X	X	_	_	_	_	_
+
+# sent_id = 100
+# s_type = default
+1301	the	the	X	X	_	_	_	_	_
+1302	PLC	plc	X	X	_	_	_	_	_
+1303	is	is	X	X	_	_	_	_	_
+1304	bad	bad	X	X	_	_	_	_	_
+1305	.	.	X	X	_	_	_	_	_
+
+# sent_id = 101
+# s_type = default
+1306	That	that	X	X	_	_	_	_	_
+1307	output	output	X	X	_	_	_	_	_
+1308	is	is	X	X	_	_	_	_	_
+1309	actually	actually	X	X	_	_	_	_	_
+1310	bad	bad	X	X	_	_	_	_	_
+1311	.	.	X	X	_	_	_	_	_
+
+# sent_id = 102
+# s_type = default
+1312	Now	now	X	X	_	_	_	_	_
+1313	,	,	X	X	_	_	_	_	_
+1314	let	let	X	X	_	_	_	_	_
+1315	me	me	X	X	_	_	_	_	_
+1316	show	show	X	X	_	_	_	_	_
+1317	you	you	X	X	_	_	_	_	_
+1318	something	something	X	X	_	_	_	_	_
+1319	here	here	X	X	_	_	_	_	_
+1320	.	.	X	X	_	_	_	_	_
+
+# sent_id = 103
+# s_type = default
+1321	I	i	X	X	_	_	_	_	_
+1322	'	'	X	X	_	_	_	_	_
+1323	m	m	X	X	_	_	_	_	_
+1324	going	going	X	X	_	_	_	_	_
+1325	to	to	X	X	_	_	_	_	_
+1326	come	come	X	X	_	_	_	_	_
+1327	to	to	X	X	_	_	_	_	_
+1328	the	the	X	X	_	_	_	_	_
+1329	output	output	X	X	_	_	_	_	_
+
+# sent_id = 104
+# s_type = default
+1330	and	and	X	X	_	_	_	_	_
+1331	I	i	X	X	_	_	_	_	_
+1332	'	'	X	X	_	_	_	_	_
+1333	m	m	X	X	_	_	_	_	_
+1334	going	going	X	X	_	_	_	_	_
+1335	to	to	X	X	_	_	_	_	_
+1336	force	force	X	X	_	_	_	_	_
+1337	this	this	X	X	_	_	_	_	_
+1338	on	on	X	X	_	_	_	_	_
+1339	.	.	X	X	_	_	_	_	_
+
+# sent_id = 105
+# s_type = default
+1340	Okay	okay	X	X	_	_	_	_	_
+1341	,	,	X	X	_	_	_	_	_
+1342	now	now	X	X	_	_	_	_	_
+1343	let	let	X	X	_	_	_	_	_
+1344	'	'	X	X	_	_	_	_	_
+1345	s	s	X	X	_	_	_	_	_
+1346	see	see	X	X	_	_	_	_	_
+1347	how	how	X	X	_	_	_	_	_
+1348	this	this	X	X	_	_	_	_	_
+1349	is	is	X	X	_	_	_	_	_
+1350	different	different	X	X	_	_	_	_	_
+1351	.	.	X	X	_	_	_	_	_
+
+# sent_id = 106
+# s_type = default
+1352	Alright	alright	X	X	_	_	_	_	_
+1353	,	,	X	X	_	_	_	_	_
+1354	so	so	X	X	_	_	_	_	_
+1355	this	this	X	X	_	_	_	_	_
+1356	is	is	X	X	_	_	_	_	_
+1357	a—	a—	X	X	_	_	_	_	_
+1358	so	so	X	X	_	_	_	_	_
+1359	right	right	X	X	_	_	_	_	_
+1360	now	now	X	X	_	_	_	_	_
+1361	,	,	X	X	_	_	_	_	_
+1362	here	here	X	X	_	_	_	_	_
+1363	'	'	X	X	_	_	_	_	_
+1364	s	s	X	X	_	_	_	_	_
+1365	I	i	X	X	_	_	_	_	_
+1366	just	just	X	X	_	_	_	_	_
+1367	forced	forced	X	X	_	_	_	_	_
+1368	Output	output	X	X	_	_	_	_	_
+1369	Zero	zero	X	X	_	_	_	_	_
+1370	on	on	X	X	_	_	_	_	_
+1371	.	.	X	X	_	_	_	_	_
+
+# sent_id = 107
+# s_type = default
+1372	So	so	X	X	_	_	_	_	_
+1373	,	,	X	X	_	_	_	_	_
+1374	If	if	X	X	_	_	_	_	_
+1375	I	i	X	X	_	_	_	_	_
+1376	come	come	X	X	_	_	_	_	_
+1377	to	to	X	X	_	_	_	_	_
+1378	my	my	X	X	_	_	_	_	_
+1379	zero	zero	X	X	_	_	_	_	_
+1380	,	,	X	X	_	_	_	_	_
+1381	coming	coming	X	X	_	_	_	_	_
+1382	in	in	X	X	_	_	_	_	_
+1383	here	here	X	X	_	_	_	_	_
+1384	.	.	X	X	_	_	_	_	_
+
+# sent_id = 108
+# s_type = default
+1385	you	you	X	X	_	_	_	_	_
+1386	can	can	X	X	_	_	_	_	_
+1387	see	see	X	X	_	_	_	_	_
+1388	on	on	X	X	_	_	_	_	_
+1389	the	the	X	X	_	_	_	_	_
+1390	schematic	schematic	X	X	_	_	_	_	_
+1391	where	where	X	X	_	_	_	_	_
+1392	I	i	X	X	_	_	_	_	_
+1393	'	'	X	X	_	_	_	_	_
+1394	m	m	X	X	_	_	_	_	_
+1395	at	at	X	X	_	_	_	_	_
+1396	120	120	X	X	_	_	_	_	_
+1397	,	,	X	X	_	_	_	_	_
+1398	come	come	X	X	_	_	_	_	_
+1399	up	up	X	X	_	_	_	_	_
+1400	here	here	X	X	_	_	_	_	_
+1401	.	.	X	X	_	_	_	_	_
+1402	Oh	oh	X	X	_	_	_	_	_
+1403	,	,	X	X	_	_	_	_	_
+1404	120	120	X	X	_	_	_	_	_
+1405	,	,	X	X	_	_	_	_	_
+1406	right	right	X	X	_	_	_	_	_
+1407	?	?	X	X	_	_	_	_	_
+
+# sent_id = 109
+# s_type = default
+1408	So	so	X	X	_	_	_	_	_
+1409	,	,	X	X	_	_	_	_	_
+1410	that	that	X	X	_	_	_	_	_
+1411	means	means	X	X	_	_	_	_	_
+1412	that	that	X	X	_	_	_	_	_
+1413	it	it	X	X	_	_	_	_	_
+1414	is	is	X	X	_	_	_	_	_
+1415	functioning	functioning	X	X	_	_	_	_	_
+1416	,	,	X	X	_	_	_	_	_
+
+# sent_id = 110
+# s_type = default
+1417	that	that	X	X	_	_	_	_	_
+1418	it	it	X	X	_	_	_	_	_
+1419	is	is	X	X	_	_	_	_	_
+1420	turned	turned	X	X	_	_	_	_	_
+1421	on	on	X	X	_	_	_	_	_
+1422	.	.	X	X	_	_	_	_	_
+
+# sent_id = 111
+# s_type = default
+1423	Okay	okay	X	X	_	_	_	_	_
+1424	,	,	X	X	_	_	_	_	_
+1425	I	i	X	X	_	_	_	_	_
+1426	can	can	X	X	_	_	_	_	_
+1427	even	even	X	X	_	_	_	_	_
+1428	trace	trace	X	X	_	_	_	_	_
+1429	that	that	X	X	_	_	_	_	_
+1430	down	down	X	X	_	_	_	_	_
+1431	to	to	X	X	_	_	_	_	_
+1432	here	here	X	X	_	_	_	_	_
+1433	,	,	X	X	_	_	_	_	_
+1434	120	120	X	X	_	_	_	_	_
+1435	,	,	X	X	_	_	_	_	_
+1436	120	120	X	X	_	_	_	_	_
+1437	,	,	X	X	_	_	_	_	_
+
+# sent_id = 112
+# s_type = default
+1438	and	and	X	X	_	_	_	_	_
+1439	I	i	X	X	_	_	_	_	_
+1440	know	know	X	X	_	_	_	_	_
+1441	if	if	X	X	_	_	_	_	_
+1442	I	i	X	X	_	_	_	_	_
+1443	trace	trace	X	X	_	_	_	_	_
+1444	that	that	X	X	_	_	_	_	_
+1445	back	back	X	X	_	_	_	_	_
+1446	to	to	X	X	_	_	_	_	_
+1447	the	the	X	X	_	_	_	_	_
+1448	green	green	X	X	_	_	_	_	_
+1449	light	light	X	X	_	_	_	_	_
+1450	that	that	X	X	_	_	_	_	_
+1451	'	'	X	X	_	_	_	_	_
+1452	s	s	X	X	_	_	_	_	_
+1453	on	on	X	X	_	_	_	_	_
+1454	over	over	X	X	_	_	_	_	_
+1455	there	there	X	X	_	_	_	_	_
+1456	,	,	X	X	_	_	_	_	_
+
+# sent_id = 113
+# s_type = default
+1457	that	that	X	X	_	_	_	_	_
+1458	we	we	X	X	_	_	_	_	_
+1459	would	would	X	X	_	_	_	_	_
+1460	have	have	X	X	_	_	_	_	_
+1461	120	120	X	X	_	_	_	_	_
+1462	volts	volts	X	X	_	_	_	_	_
+1463	flowing	flowing	X	X	_	_	_	_	_
+1464	through	through	X	X	_	_	_	_	_
+1465	there	there	X	X	_	_	_	_	_
+1466	.	.	X	X	_	_	_	_	_
+
+# sent_id = 114
+# s_type = default
+1467	All	all	X	X	_	_	_	_	_
+1468	right	right	X	X	_	_	_	_	_
+1469	,	,	X	X	_	_	_	_	_
+1470	so	so	X	X	_	_	_	_	_
+1471	now	now	X	X	_	_	_	_	_
+1472	we	we	X	X	_	_	_	_	_
+1473	know	know	X	X	_	_	_	_	_
+1474	that	that	X	X	_	_	_	_	_
+1475	contact	contact	X	X	_	_	_	_	_
+1476	'	'	X	X	_	_	_	_	_
+1477	s	s	X	X	_	_	_	_	_
+1478	bad	bad	X	X	_	_	_	_	_
+1479	,	,	X	X	_	_	_	_	_
+
+# sent_id = 115
+# s_type = default
+1480	and	and	X	X	_	_	_	_	_
+1481	we	we	X	X	_	_	_	_	_
+1482	can	can	X	X	_	_	_	_	_
+1483	feel	feel	X	X	_	_	_	_	_
+1484	confident	confident	X	X	_	_	_	_	_
+1485	that	that	X	X	_	_	_	_	_
+1486	we	we	X	X	_	_	_	_	_
+1487	may	may	X	X	_	_	_	_	_
+1488	have	have	X	X	_	_	_	_	_
+1489	to	to	X	X	_	_	_	_	_
+1490	replace	replace	X	X	_	_	_	_	_
+1491	this	this	X	X	_	_	_	_	_
+1492	PLC	plc	X	X	_	_	_	_	_
+1493	when	when	X	X	_	_	_	_	_
+1494	we	we	X	X	_	_	_	_	_
+1495	report	report	X	X	_	_	_	_	_
+1496	back	back	X	X	_	_	_	_	_
+1497	to	to	X	X	_	_	_	_	_
+1498	our	our	X	X	_	_	_	_	_
+1499	bosses	bosses	X	X	_	_	_	_	_
+1500	.	.	X	X	_	_	_	_	_
+
+# sent_id = 116
+# s_type = default
+1501	Alright	alright	X	X	_	_	_	_	_
+1502	,	,	X	X	_	_	_	_	_
+1503	so	so	X	X	_	_	_	_	_
+1504	that	that	X	X	_	_	_	_	_
+1505	'	'	X	X	_	_	_	_	_
+1506	s	s	X	X	_	_	_	_	_
+1507	just	just	X	X	_	_	_	_	_
+1508	a	a	X	X	_	_	_	_	_
+1509	little	little	X	X	_	_	_	_	_
+1510	introduction	introduction	X	X	_	_	_	_	_
+1511	into	into	X	X	_	_	_	_	_
+1512	troubleshooting	troubleshooting	X	X	_	_	_	_	_
+1513	a	a	X	X	_	_	_	_	_
+1514	PLC	plc	X	X	_	_	_	_	_
+1515	output	output	X	X	_	_	_	_	_
+1516	.	.	X	X	_	_	_	_	_
+

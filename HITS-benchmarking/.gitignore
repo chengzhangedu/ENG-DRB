@@ -1,0 +1,7 @@
+data/embeddings/
+data/logs/
+data/result/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
