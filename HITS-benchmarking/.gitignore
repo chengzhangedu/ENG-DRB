@@ -1,5 +1,4 @@
 data/embeddings/
-data/dataset/
 data/logs/
 data/result/
 __pycache__/
